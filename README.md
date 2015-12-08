@@ -1,0 +1,2 @@
+# myBlogDesign
+josetterojas.com
