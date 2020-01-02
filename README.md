@@ -3,7 +3,7 @@ A WIP of josetterojas.com Site Design
 
 #Things to Do:
 
-- [X] Change Design Elements
+- [] Change Design Elements
 - [ ] Update Htmls
 - [ ] Search for Interface animation
 - [ ] Create Prototype
